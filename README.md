@@ -1,0 +1,2 @@
+# go
+My go scripts
